@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **paraparachahan/paraparachahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔮 今日のひとこと
+## 🤩 Today's fortune
 
 <!-- fortune:start -->
 "I changed my headlights the other day. I put in strobe lights instead! Now
 when I drive at night, it looks like everyone else is standing still ..."
-		-- Steven Wright
+  -- Steven Wright
 <!-- fortune:end -->
