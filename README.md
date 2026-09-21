@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔮 今日のひとこと
+
+<!-- fortune:start -->
+準備中です。
+<!-- fortune:end -->
