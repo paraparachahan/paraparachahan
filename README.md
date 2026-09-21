@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 ## 🔮 今日のひとこと
 
 <!-- fortune:start -->
-準備中です。
+動いた理由を説明できたら、
+それは今日の成長。
 <!-- fortune:end -->
