@@ -1,4 +1,5 @@
 from pathlib import Path
+from html import escape
 
 readme = Path("README.md").read_text(encoding="utf-8")
 fortune = Path("fortune.txt").read_text(encoding="utf-8")
@@ -12,7 +13,9 @@ old_message, after = rest.split(end, 1)
 new_readme = (
     before
     + start + "\n"
-    + fortune.strip() + "\n"
+    + "<pre>\n"
+    + escape(fortune.rstrip("\n")) + "\n"
+    + "</pre>\n"
     + end
     + after
 )
