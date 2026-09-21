@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ## 🤩 Today's fortune
 
 <!-- fortune:start -->
-"I changed my headlights the other day. I put in strobe lights instead! Now
-when I drive at night, it looks like everyone else is standing still ..."
-  -- Steven Wright
+<pre>
+LOAD &quot;LINUX&quot;,8,1
+		-- Topic on #LinuxGER
+</pre>
 <!-- fortune:end -->
