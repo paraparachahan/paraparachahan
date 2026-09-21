@@ -10,12 +10,12 @@ end = "<!-- fortune:end -->"
 before, rest = readme.split(start, 1)
 old_message, after = rest.split(end, 1)
 
+text = " ".join(fortune.split())
+
 new_readme = (
     before
-    + start + "\n"
-    + "<pre>\n"
-    + escape(fortune.rstrip("\n")) + "\n"
-    + "</pre>\n"
+    + start + "\n\n"
+    + escape(text) + "\n\n"
     + end
     + after
 )
