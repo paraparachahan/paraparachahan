@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## 🔮 今日のひとこと
 
 <!-- fortune:start -->
-動いた理由を説明できたら、
-それは今日の成長。
+"I changed my headlights the other day. I put in strobe lights instead! Now
+when I drive at night, it looks like everyone else is standing still ..."
+		-- Steven Wright
 <!-- fortune:end -->
