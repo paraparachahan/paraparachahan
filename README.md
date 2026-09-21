@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ## 🤩 Today's fortune
 
 <!-- fortune:start -->
-<pre>
-LOAD &quot;LINUX&quot;,8,1
-		-- Topic on #LinuxGER
-</pre>
+
+... A solemn, unsmiling, sanctimonious old iceberg who looked like he was waiting for a vacancy in the Trinity. -- Mark Twain
+
 <!-- fortune:end -->
