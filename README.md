@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Exceptions prove the rule, and wreck the budget. -- Miller
+Q: Why don&#x27;t lawyers go to the beach? A: The cats keep trying to bury them.
 
 <!-- fortune:end -->
