@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Q: Why don&#x27;t lawyers go to the beach? A: The cats keep trying to bury them.
+No group of professionals meets except to conspire against the public at large.
+
+<p align="right">-- Mark Twain</p>
 
 <!-- fortune:end -->
