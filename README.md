@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-... A solemn, unsmiling, sanctimonious old iceberg who looked like he was waiting for a vacancy in the Trinity. -- Mark Twain
+Exceptions prove the rule, and wreck the budget. -- Miller
 
 <!-- fortune:end -->
