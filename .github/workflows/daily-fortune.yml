@@ -3,7 +3,7 @@ name: Daily Fortune
 on:
   workflow_dispatch:
   schedule:
-    - cron: "45 9 * * *"
+    - cron: "0 0 * * *"
       timezone: "Asia/Tokyo"
 
 permissions:
