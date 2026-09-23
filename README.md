@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-No group of professionals meets except to conspire against the public at large.
+Blast medicine anyway! We&#x27;ve learned to tie into every organ in the human body but one. The brain! The brain is what life is all about.
 
-<p align="right">-- Mark Twain</p>
+<p align="right">-- McCoy, &quot;The Menagerie&quot;, stardate 3012.4</p>
 
 <!-- fortune:end -->
