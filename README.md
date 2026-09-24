@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Blast medicine anyway! We&#x27;ve learned to tie into every organ in the human body but one. The brain! The brain is what life is all about.
+The whole history of computers is rampant with cheerleading at best and bigotry at worst.
 
-<p align="right">-- McCoy, &quot;The Menagerie&quot;, stardate 3012.4</p>
+<p align="right">-- Larry Wall in &lt;199702111730.JAA28598@wall.org&gt;</p>
 
 <!-- fortune:end -->
