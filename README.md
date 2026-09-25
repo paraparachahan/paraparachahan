@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-The whole history of computers is rampant with cheerleading at best and bigotry at worst.
-
-<p align="right">-- Larry Wall in &lt;199702111730.JAA28598@wall.org&gt;</p>
+May Euell Gibbons eat your only copy of the manual!
 
 <!-- fortune:end -->
