@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-May Euell Gibbons eat your only copy of the manual!
+At the end of your life there&#x27;ll be a good rest, and no further activities are scheduled.
 
 <!-- fortune:end -->
