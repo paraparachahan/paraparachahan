@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-At the end of your life there&#x27;ll be a good rest, and no further activities are scheduled.
+After this was written there appeared a remarkable posthumous memoir that throws some doubt on Millikan&#x27;s leading role in these experiments. Harvey Fletcher (1884-1981), who was a graduate student at the University of Chicago, at Millikan&#x27;s suggestion worked on the measurement of electronic charge for his doctoral thesis, and co-authored some of the early papers on this subject with Millikan. Fletcher left a manuscript with a friend with instructions that it be published after his death; the manuscript was published in Physics Today, June 1982, page 43. In it, Fletcher claims that he was the first to do the experiment with oil drops, was the first to measure charges on single droplets, and may have been the first to suggest the use of oil. According to Fletcher, he had expected to be co-authored with Millikan on the crucial first article announcing the measurement of the electronic charge, but was talked out of this by Millikan.
+
+<p align="right">-- Steven Weinberg, &quot;The Discovery of Subatomic Particles&quot; Robert Millikan is generally credited with making the first really precise measurement of the charge on an electron and was awarded the Nobel Prize in 1923.</p>
 
 <!-- fortune:end -->
