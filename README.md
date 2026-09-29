@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-&quot;...The name of the song is called &#x27;Haddocks&#x27; Eyes&#x27;!&quot; &quot;Oh, that&#x27;s the name of the song, is it?&quot; Alice said, trying to feel interested. &quot;No, you don&#x27;t understand,&quot; the Knight said, looking a little vexed. &quot;That&#x27;s what the name is called. The name really is, &#x27;The Aged Aged Man.&#x27;&quot; &quot;Then I ought to have said &quot;That&#x27;s what the song is called&#x27;?&quot; Alice corrected herself. &quot;No, you oughtn&#x27;t: that&#x27;s quite another thing! The song is called &#x27;Ways and Means&#x27;: but that&#x27;s only what it is called you know!&quot; &quot;Well, what is the song then?&quot; said Alice, who was by this time completely bewildered. &quot;I was coming to that,&quot; the Knight said. &quot;The song really is &quot;A-sitting on a Gate&quot;: and the tune&#x27;s my own invention.&quot;
-
-<p align="right">-- Lewis Carroll, &quot;Through the Looking Glass&quot;</p>
+One good reason why computers can do more work than people is that they never have to stop and answer the phone.
 
 <!-- fortune:end -->
