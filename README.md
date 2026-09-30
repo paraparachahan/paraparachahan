@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-One good reason why computers can do more work than people is that they never have to stop and answer the phone.
+I consider a new device or technology to have been culturally accepted when it has been used to commit a murder.
+
+<p align="right">-- M. Gallaher</p>
 
 <!-- fortune:end -->
