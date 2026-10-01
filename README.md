@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-I consider a new device or technology to have been culturally accepted when it has been used to commit a murder.
+Steve Jobs said two years ago that X is brain-damaged and it will be gone in two years. He was half right.
 
-<p align="right">-- M. Gallaher</p>
+<p align="right">-- Dennis Ritchie</p>
 
 <!-- fortune:end -->
