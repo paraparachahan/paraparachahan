@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Steve Jobs said two years ago that X is brain-damaged and it will be gone in two years. He was half right.
+The trouble with opportunity is that it always comes disguised as hard work.
 
-<p align="right">-- Dennis Ritchie</p>
+<p align="right">-- Herbert V. Prochnow</p>
 
 <!-- fortune:end -->
