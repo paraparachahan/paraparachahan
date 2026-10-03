@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-The trouble with opportunity is that it always comes disguised as hard work.
-
-<p align="right">-- Herbert V. Prochnow</p>
+The meek shall inherit the earth; the rest of us, the Universe.
 
 <!-- fortune:end -->
