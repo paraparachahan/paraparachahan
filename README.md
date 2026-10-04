@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-The meek shall inherit the earth; the rest of us, the Universe.
+Such efforts are almost always slow, laborious, political, petty, boring, ponderous, thankless, and of the utmost criticality.
+
+<p align="right">-- Leonard Kleinrock, on standards efforts</p>
 
 <!-- fortune:end -->
