@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Such efforts are almost always slow, laborious, political, petty, boring, ponderous, thankless, and of the utmost criticality.
+Suspicion always haunts the guilty mind.
 
-<p align="right">-- Leonard Kleinrock, on standards efforts</p>
+<p align="right">-- Wm. Shakespeare</p>
 
 <!-- fortune:end -->
