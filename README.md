@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Suspicion always haunts the guilty mind.
+Those who do things in a noble spirit of self-sacrifice are to be avoided at all costs.
 
-<p align="right">-- Wm. Shakespeare</p>
+<p align="right">-- N. Alexander.</p>
 
 <!-- fortune:end -->
