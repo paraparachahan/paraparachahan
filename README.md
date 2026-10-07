@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Those who do things in a noble spirit of self-sacrifice are to be avoided at all costs.
+You can&#x27;t run away forever, But there&#x27;s nothing wrong with getting a good head start.
 
-<p align="right">-- N. Alexander.</p>
+<p align="right">-- Jim Steinman, &quot;Rock and Roll Dreams Come Through&quot;</p>
 
 <!-- fortune:end -->
