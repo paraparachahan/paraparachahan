@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-You can&#x27;t run away forever, But there&#x27;s nothing wrong with getting a good head start.
+Rattling around the back of my head is a disturbing image of something I saw at the airport ... Now I&#x27;m remembering, those giant piles of computer magazines right next to &quot;People&quot; and &quot;Time&quot; in the airport store. Does it bother anyone else that half the world is being told all of our hard-won secrets of computer technology? Remember how all the lawyers cried foul when &quot;How to Avoid Probate&quot; was published? Are they taking no-fault insurance lying down? No way! But at the current rate it won&#x27;t be long before there are stacks of the &quot;Transactions on Information Theory&quot; at the A&amp;P checkout counters. Who&#x27;s going to be impressed with us electrical engineers then? Are we, as the saying goes, giving away the store?
 
-<p align="right">-- Jim Steinman, &quot;Rock and Roll Dreams Come Through&quot;</p>
+<p align="right">-- Robert W. Lucky, IEEE President</p>
 
 <!-- fortune:end -->
