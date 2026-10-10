@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-I have a very small mind and must live with it.
+AWAKE! FEAR! FIRE! FOES! AWAKE! FEAR! FIRE! FOES! AWAKE! AWAKE!
 
-<p align="right">-- E. Dijkstra</p>
+<p align="right">-- J. R. R. Tolkien</p>
 
 <!-- fortune:end -->
