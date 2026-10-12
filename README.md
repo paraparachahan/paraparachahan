@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Steady movement is more important than speed, much of the time. So long as there is a regular progression of stimuli to get your mental hooks into, there is room for lateral movement. Once this begins, its rate is a matter of discretion.
-
-<p align="right">-- Corwin, Prince of Amber</p>
+Beauty and harmony are as necessary to you as the very breath of life.
 
 <!-- fortune:end -->
