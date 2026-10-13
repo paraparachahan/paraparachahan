@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Beauty and harmony are as necessary to you as the very breath of life.
+Many companies that have made themselves dependent on [the equipment of a certain major manufacturer] (and in doing so have sold their soul to the devil) will collapse under the sheer weight of the unmastered complexity of their data processing systems.
+
+<p align="right">-- Edsger W. Dijkstra, SIGPLAN Notices, Volume 17, Number 5</p>
 
 <!-- fortune:end -->
