@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Many companies that have made themselves dependent on [the equipment of a certain major manufacturer] (and in doing so have sold their soul to the devil) will collapse under the sheer weight of the unmastered complexity of their data processing systems.
+The temperature of Heaven can be rather accurately computed from available data. Our authority is Isaiah 30:26, &quot;Moreover, the light of the Moon shall be as the light of the Sun and the light of the Sun shall be sevenfold, as the light of seven days.&quot; Thus Heaven receives from the Moon as much radiation as we do from the Sun, and in addition seven times seven (49) times as much as the Earth does from the Sun, or fifty times in all. The light we receive from the Moon is one ten-thousandth of the light we receive from the Sun, so we can ignore that. With these data we can compute the temperature of Heaven. The radiation falling on Heaven will heat it to the point where the heat lost by radiation is just equal to the heat received by radiation, i.e., Heaven loses fifty times as much heat as the Earth by radiation. Using the Stefan-Boltzmann law for radiation, (H/E)^4 = 50, where E is the absolute temperature of the earth (~300K), gives H as 798K (525C). The exact temperature of Hell cannot be computed, but it must be less than 444.6C, the temperature at which brimstone or sulphur changes from a liquid to a gas. Revelations 21:8 says &quot;But the fearful, and unbelieving ... shall have their part in the lake which burneth with fire and brimstone.&quot; A lake of molten brimstone means that its temperature must be at or below the boiling point, or 444.6C (Above this point it would be a vapor, not a lake.) We have, then, that Heaven, at 525C is hotter than Hell at 445C.
 
-<p align="right">-- Edsger W. Dijkstra, SIGPLAN Notices, Volume 17, Number 5</p>
+<p align="right">-- &quot;Applied Optics&quot;, vol. 11, A14, 1972</p>
 
 <!-- fortune:end -->
