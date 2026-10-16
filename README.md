@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-And don&#x27;t tell me there isn&#x27;t one bit of difference between null and space, because that&#x27;s exactly how much difference there is. :-)
-
-<p align="right">-- Larry Wall in &lt;10209@jpl-devvax.JPL.NASA.GOV&gt;</p>
+Wernher von Braun settled for a V-2 when he coulda had a V-8.
 
 <!-- fortune:end -->
