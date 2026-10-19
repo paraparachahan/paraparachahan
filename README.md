@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-If God had intended Man to program, we&#x27;d be born with serial I/O ports.
+Sometimes you get an almost irresistible urge to go on living.
 
 <!-- fortune:end -->
