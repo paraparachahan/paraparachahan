@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Sometimes you get an almost irresistible urge to go on living.
+Q: How many lawyers does it take to change a light bulb? A: You won&#x27;t find a lawyer who can change a light bulb. Now, if you&#x27;re looking for a lawyer to screw a light bulb...
 
 <!-- fortune:end -->
