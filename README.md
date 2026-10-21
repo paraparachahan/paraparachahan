@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Q: How many lawyers does it take to change a light bulb? A: You won&#x27;t find a lawyer who can change a light bulb. Now, if you&#x27;re looking for a lawyer to screw a light bulb...
+The sendmail configuration file is one of those files that looks like someone beat their head on the keyboard. After working with it... I can see why!
+
+<p align="right">-- Harry Skelton</p>
 
 <!-- fortune:end -->
