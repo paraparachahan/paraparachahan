@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-The sendmail configuration file is one of those files that looks like someone beat their head on the keyboard. After working with it... I can see why!
-
-<p align="right">-- Harry Skelton</p>
+Programmers do it bit by bit.
 
 <!-- fortune:end -->
