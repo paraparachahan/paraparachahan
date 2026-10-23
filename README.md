@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Programmers do it bit by bit.
+You two ought to be more careful--your love could drag on for years and years.
 
 <!-- fortune:end -->
